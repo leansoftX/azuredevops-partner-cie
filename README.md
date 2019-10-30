@@ -1,4 +1,4 @@
-# Azure DevOps CIE
+# Azure DevOps Partner CIE
 
 所有参训人员需要具备以下条件：
 
@@ -20,11 +20,11 @@
 
 ## 培训日程
 
-- 1.1 9:00-10:00 Azure DevOps简单介绍及微软Azure DevOps案例分享
+- 1.1 9:00-10:00 Azure DevOps简单介绍及微软Azure DevOps案例分享，GitHub讲解。
   - 演讲：
     - 02-AzureDevOpsOverview-v1.pptx
   - 介绍Azure DevOps现状及主要功能简介。
-
+  - Github介绍, Github集成Azure Pipeline
 - 1.2 10:00-11:00 Azure DevOps 看板及代码管理功能展示
   - 演示
     - 02-AzureDevOpsOverview-v1.pptx 最后的基于Git的特定分支模式一页完成以下演示
@@ -40,11 +40,14 @@
 
 午休
 
-- 1.4 13:00-14:00 Azure Pipeline的搭建介绍
-  - 演讲+演示：
+- 1.4 14:00-15:30	Azure Pipeline的搭建介绍及AKS集群部署
+  - 演示如何在Azure DevOps Service中配置自动化编译及自动化部署
     - 03-Build-v1.pptx
     - 04-ReleaseMangement-v1.pptx
-  - 演示如何在Azure DevOps Service中配置自动化编译及自动化部署
+  - 如何基于看板、Git等功能创建广义交付流水线
+    - 动手实验-Azure DevOps Service广义流水线
+  - 如何持续部署应用到AKS集群环境
+    - 动手实验-AKS搭建Azure DevOps流水线
 
 - 1.5 14:00-15:00 Azure Pipeline搭建及运行练习
   - 练习
