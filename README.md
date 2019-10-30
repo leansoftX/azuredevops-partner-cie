@@ -51,7 +51,7 @@
 
 - 1.5 14:00-15:00 Azure Pipeline搭建及运行练习
   - 练习
-  - 员根据练习指导手册自行创建并运行Azure Pipeline，完成自动化构建
+  - 学员根据练习指导手册自行创建并运行Azure Pipeline，完成自动化构建
   - <https://almvm.devopshub.cn/labs/vsts/continuousintegration/>
   - <https://almvm.devopshub.cn/labs/vsts/continuousdeployment/>
 
